@@ -1,4 +1,4 @@
-// "use strict"
+"use strict"
 // while(true){
 //   console.log("I`m Always Executable");
 // }
@@ -32,4 +32,5 @@ do{
   }
   alert("chances overed:" +chance)
   chance++
-}while(chance<=3);
+}
+while(chance<=3);
