@@ -34,3 +34,40 @@ do{
   chance++
 }
 while(chance<=3);
+
+
+
+
+// let num = 2;
+// while (num <=100){
+//   num +=2  //even numbers
+//   console.log(num);
+// }
+
+
+// let num = 2;
+// while (num <=100){
+//   num +=3  //odd numbers
+//   console.log(num);
+// }
+
+// let num = 2;
+// while (num <=100){
+//   num *=2   //2*output
+//   console.log(num);
+// }
+
+// let num = 2;
+// while (num <=100){
+//   num **=2  // 2power of output
+//   console.log(num);
+// }
+
+
+//
+// var i = 1;
+// // this while loop prints odd numbers between 1 and 10.
+// while (i <= 10) {
+// console.log(i);
+// i += 2;
+// }
